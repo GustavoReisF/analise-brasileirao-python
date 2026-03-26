@@ -25,5 +25,11 @@ Projeto de análise exploratória de dados do Campeonato Brasileiro utilizando P
 - Tendência de crescimento após 2020
 - Alta competitividade entre equipes
 
-## 📸 Exemplo
-![Média de gols](images/media_gols_temporada.png)
+## 📸 Exemplo de visualização
+![Média de gols por temporada](images/media_gols_temporada.png)
+
+## Como executar
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
